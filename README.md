@@ -2,6 +2,7 @@
 
 <!-- <h3> नमस्ते (Namaste)🙏🏻, I am Varad Bhogayata 👋</h3> -->
 ### नमस्ते (Namaste)🙏🏻, I am Namit Kharade 👋
+I learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
 [![Linkedin Badge](https://img.shields.io/badge/-namitkharade-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/namit-k/)](https://www.linkedin.com/in/namit-k/)
 [![Gmail Badge](https://img.shields.io/badge/-namitkharade@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:namitkharade@gmail.com)](mailto:namitkharade@gmail.com) 
 
@@ -12,6 +13,7 @@
 
 ### Languages and Tools: 
 <img align="left" alt="HTML5" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
+<img align="left" alt="HTML5" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
 <img align="left" alt="HTML5" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png" />
 <img align="left" alt="SQL" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 <img align="left" alt="MySQL" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
