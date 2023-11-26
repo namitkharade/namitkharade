@@ -1,18 +1,15 @@
 <div align="center">
-   <h1>Hi there, Iam <a href="https://namitkharade.github.io/">Namit</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
-   <img src="https://pronoun.cyou/x/y?subject=He&object=Him&height=20"> 
+   <h1>Hi there, Iam <a href="https://namitkharade.github.io/">Namit</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1> 
 </div>
 
 I learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
 
 <p align='center'>
    <a href="https://www.linkedin.com/in/namit-k/"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;
-<a href="https://twitter.com/"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/twitter.png?raw=true"></a>&nbsp;&nbsp;
 <a href="https://www.facebook.com/"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/spotify.png?raw=true"></a>&nbsp;&nbsp;
  </p>
 
 
-- 🎯 Portfolio website: [Portfolio](https://namitkharade.github.io/)
 - 💬 Ask me about anything, I am happy to help :smile:
 - 📬 How to reach me: [Let's get in touch!][linkedin]
 
