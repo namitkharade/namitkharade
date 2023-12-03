@@ -4,9 +4,7 @@
 
 I learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
 
-
 - 💬 Ask me about anything, I am happy to help :smile:
-- 📬 How to reach me: [Let's get in touch!][linkedin]
 
 ### Languages
 
