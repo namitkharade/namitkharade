@@ -10,6 +10,7 @@ I learned a lot from the open-source community and i love how collaboration and 
 
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
+![JavaScript](https://img.shields.io/badge/-Vue.js-000?&logo=Vue.js)
 ![C](https://img.shields.io/badge/-C-000?&logo=C)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
 ![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
@@ -17,8 +18,9 @@ I learned a lot from the open-source community and i love how collaboration and 
 
 ### Technologies
 
-![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90)
+![GCP](https://img.shields.io/badge/-GoogleCloud-000?&logo=GoogleCloud&logoColor=#4285F4)
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
+![Airflow](https://img.shields.io/badge/-ApacheAirflow-000?&logo=ApacheAirflow&logoColor=#017CEE)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?&logo=Kubernetes)
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-000?&logo=PyTorch)
