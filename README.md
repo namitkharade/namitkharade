@@ -27,6 +27,9 @@ I learned a lot from the open-source community and i love how collaboration and 
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?&logo=TensorFlow)
 
 
+<img width="35%" align="center" src="https://github-readme-stats.vercel.app/api?username=namitkharade&show_icons=true&hide_border=true&theme=transparent&hide=contribs&rank_icon=github" />
 
-<div align="center">
+
+
+
 <h4 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h4>
